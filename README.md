@@ -1,6 +1,9 @@
 # Release-To-Black
 Genre - Chiptune
 
+Song Name: Release To Black
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=0aRdVWAse24&index=26&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU)
 
 Current Song Version: 1.0
